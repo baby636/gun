@@ -75,7 +75,7 @@
     "@types/mocha": "^7.0.1",
     "@types/node": "^13.7.0",
     "@types/uglify-js": "^3.0.4",
-    "@types/ws": "^7.2.1",
+    "@types/ws": "^7.4.1",
     "aws-sdk": "^2.528.0",
     "ip": "^1.1.5",
     "mocha": "^6.2.0",
