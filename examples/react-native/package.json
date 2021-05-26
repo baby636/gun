@@ -10,17 +10,17 @@
     "buffer": "^5.2.1",
     "encode-utf8": "^1.0.2",
     "fast-base64-encode": "^1.0.0",
-    "gun": "^0.9.99999",
+    "gun": "^0.2020.115",
     "lodash": "^4.17.11",
     "react": "16.6.1",
-    "react-native": "0.57.5",
+    "react-native": "0.62.0",
     "react-native-webview-bridge": "^0.40.1",
     "serialize-error": "^3.0.0",
     "text-encoding": "^0.7.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
-    "jest": "23.6.0",
+    "jest": "25.0.0",
     "metro-react-native-babel-preset": "0.49.2",
     "react-test-renderer": "16.6.1"
   },
