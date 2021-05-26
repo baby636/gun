@@ -56,7 +56,7 @@
     "node": ">=0.8.4"
   },
   "dependencies": {
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "optionalDependencies": {
     "@peculiar/webcrypto": "^1.1.1",
