@@ -78,7 +78,7 @@
     "@types/ws": "^7.2.1",
     "aws-sdk": "^2.528.0",
     "ip": "^1.1.5",
-    "mocha": "^6.2.0",
+    "mocha": "^11.0.1",
     "panic-manager": "^1.2.0",
     "panic-server": "^1.1.1",
     "uglify-js": "^3.6.0"
